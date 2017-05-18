@@ -3,21 +3,24 @@
 <html>
     <head>
         <meta charset="utf-8">
+
+
+        <link rel="stylesheet" href="css/style.css">
         <title>Merchant-Taylor Home Page</title>
 
 
-        <!-- custom CSS stylesheet -->
-        <link rel="stylesheet" href="../merch-taylor/css/style.css" type="text/css" />
 
     </head>
 
     <body>
+        <div class = "container">
+            <h1>Merchant-Taylor International, Inc.</h1>
 
+            <img src="images/ltlogo.jpg">
 
-        <h1>Merchant-Taylor International, Inc.</h1>
-
-        <h2>Biomedical Regulatory & New Product</h2>
-        <h2>Development Consulting</h2>
+            <h2>Biomedical Regulatory & New Product</h2>
+            <h2>Development Consulting</h2>
+        </div>
 
     <!-- nav bar list-->
 
