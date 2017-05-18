@@ -25,12 +25,12 @@
 
         <ul>
             <li> <a href="index.php">Welcome</a></li>
-            <li> <a href="about.php">About Page</a> </li>
-            <li> <a href="consulting.php">Consulting Services</a></li>
-            <li> <a href="clientlist.php">Partial Client List</a></li>
-            <li> <a href="priciples.php">MTI Principals</a></li>
-            <li> <a href="assoicates.php">MTI Associates</a></li>
-            <li> <a href="contact.php">Contact Us</a></li>
+            <li> <a href="internal-pages/about.php">About Page</a> </li>
+            <li> <a href="internal-pages/consulting.php">Consulting Services</a></li>
+            <li> <a href="internal-pages/clientList.php">Partial Client List</a></li>
+            <li> <a href="internal-pages/principles.php">MTI Principals</a></li>
+            <li> <a href="internal-pages/associates.php">MTI Associates</a></li>
+            <li> <a href="internal-pages/contact.php">Contact Us</a></li>
         </ul>
 
 
