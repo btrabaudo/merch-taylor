@@ -28,6 +28,9 @@
             <li> <a href="about.php">About Page</a> </li>
             <li> <a href="consulting.php">Consulting Services</a></li>
             <li> <a href="clientlist.php">Partial Client List</a></li>
+            <li> <a href="priciples.php">MTI Principals</a></li>
+            <li> <a href="assoicates.php">MTI Associates</a></li>
+            <li> <a href="contact.php">Contact Us</a></li>
         </ul>
 
 
