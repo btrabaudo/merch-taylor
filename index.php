@@ -9,8 +9,6 @@
         <!-- custom CSS stylesheet -->
         <link rel="stylesheet" href="../merch-taylor/css/style.css" type="text/css" />
 
-
-
     </head>
 
     <body>
