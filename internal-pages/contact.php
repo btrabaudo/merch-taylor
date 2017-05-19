@@ -5,7 +5,7 @@
     <meta charset="utf-8">
 
 
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Merchant-Taylor About</title>
 
 
@@ -20,8 +20,8 @@
 <!-- nav bar list-->
 <div class = "container1">
     <ul>
-        <img src="/images/ltlogo.jpg">
-        <li> <a href="/index.php">Welcome</a></li>
+        <img src="../images/ltlogo.jpg">
+        <li> <a href="../index.php">Welcome</a></li>
         <li> <a href="about.php">About Page</a> </li>
         <li> <a href="consulting.php">Consulting Services</a></li>
         <li> <a href="clientList.php">Partial Client List</a></li>
