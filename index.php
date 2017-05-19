@@ -23,8 +23,9 @@
         </div>
 
     <!-- nav bar list-->
-
+    <div class = "container1">
         <ul>
+            <img src="images/ltlogo.jpg">
             <li> <a href="index.php">Welcome</a></li>
             <li> <a href="internal-pages/about.php">About Page</a> </li>
             <li> <a href="internal-pages/consulting.php">Consulting Services</a></li>
@@ -33,7 +34,7 @@
             <li> <a href="internal-pages/associates.php">MTI Associates</a></li>
             <li> <a href="internal-pages/contact.php">Contact Us</a></li>
         </ul>
-
+    </div>
 
     </body>
 
