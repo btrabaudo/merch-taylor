@@ -25,7 +25,7 @@
     <!-- nav bar list-->
     <div class = "container1">
         <ul>
-            <img src="images/ltlogo.jpg">
+            <img src="images/globe.gif">
             <li> <a href="index.php">Welcome</a></li>
             <li> <a href="internal-pages/about.php">About Page</a> </li>
             <li> <a href="internal-pages/consulting.php">Consulting Services</a></li>

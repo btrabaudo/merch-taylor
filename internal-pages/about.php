@@ -14,13 +14,15 @@
 
 <body>
 <div class = "container">
+    <h1>Merchant-Taylor International, Inc.</h1>
 
+    <h2>Your Corporate Partner for New Product Development</h2>
 </div>
 
 <!-- nav bar list-->
 <div class = "container1">
     <ul>
-        <img src="../images/ltlogo.jpg">
+        <img src="../images/globe.gif">
         <li> <a href="../index.php">Welcome</a></li>
         <li> <a href="about.php">About Page</a> </li>
         <li> <a href="consulting.php">Consulting Services</a></li>
