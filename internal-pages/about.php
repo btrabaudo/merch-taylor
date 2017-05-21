@@ -28,6 +28,23 @@
         <p>Our specialized services are tailored to meet your individual needs.</p>
 
         <p>Our diverse product experience includes:</p>
+
+        <div class="list">
+            <ul>
+                <li>Drugs; All FDA Drug Rx Divisions</li>
+                <li>Biologics including</li>
+                    <ul>
+                        <li>Monoclonals</li>
+                        <li>Recombinant Proteins</li>
+                        <li>Gene Therapies</li>
+                        <li>Somatic Cell Therapy</li>
+                        <li>Vaccines</li>
+                        <li>Blood Products</li>
+                    </ul>
+                <li>Medical Devices</li>
+                <li>Diagnostics</li>
+            </ul>
+        </div>
     </div>
 
     <div class = "container1">
