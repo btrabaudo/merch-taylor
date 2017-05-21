@@ -26,19 +26,15 @@
     float: left;
 
 }
-ul.list{
+
+.list {
+    list-style-type: circle;
     display: inline-block;
     margin: 0;
     padding: 0;
-    list-style-type: circle;
 
 
-}
-li.list{
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    list-style-type: circle;
+
 }
 
 
@@ -58,7 +54,7 @@ li.list{
 
 ul {
 
-    text-align: center;
+    text-align: inherit;
 
 }
 

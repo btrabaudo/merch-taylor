@@ -6,14 +6,52 @@
 
 
     <link rel="stylesheet" href="../css/style.css">
-    <title>Merchant-Taylor About</title>
+    <title>Merchant-Taylor Services</title>
 
 
 
 </head>
 
 <body>
-<div class = "container">
+<div class = "container2">
+
+
+    <div class="list">
+        <h2>Biomedical Product Development</h2>
+            <ul>
+                <li>Due Diligence Investigations</li>
+                <li>Program Analysis</li>
+                <li>Facilities Design and Operations Planning</li>
+            </ul>
+        <h2>Strategic Planning</h2>
+            <ul>
+                <li>Integrated Clinical/Regulatory Strategies</li>
+                <li>Clinical Protocol Development</li>
+                <li>Investigator's Brochures</li>
+                <li>CRO Selection and Project Management</li>
+            </ul>
+        <h2>Regulatory Expertise</h2>
+        <ul>
+            <li>FDA Liaison</li>
+            <li>Preparation of FDA Submissions Including 510K, PMA, DMF, IND, BLA, NDA, and Related Supplements</li>
+            <li>Report Writing and Editing</li>
+            <li>Orphan Drug Applications</li>
+            <li>Package Insert Preparation</li>
+        </ul>
+        <h2>Quality Programs</h2>
+        <ul>
+            <li>Quality Assurance Operations and Quality Audits</li>
+            <li>Compliance Audits</li>
+            <li>cGMP Training</li>
+            <li>Validation Services</li>
+            <li>QC Advisory Support</li>
+                <ul>
+                    <li>Product Testing</li>
+                    <li>Stability Programs</li>
+                    <li>Assay Development/Validation</li>
+                </ul>
+        </ul>
+    </div>
 
 </div>
 
