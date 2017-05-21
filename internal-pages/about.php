@@ -14,7 +14,7 @@
 
 <body>
 
-    <div class="container">
+    <div class = "container2">
      <h1>Merchant-Taylor International, Inc.</h1>
 
     <h2>Your Corporate Partner for New Product Development</h2>

@@ -5,6 +5,7 @@
     margin: 15em;
 
 
+
 }
 
 .container1 {
@@ -18,10 +19,16 @@
 
 }
 
+.container2{
+    height: 0;
+    text-align: center;
+    margin-left: 10em;
+}
+
 
 .img {
-    width: 96px;
-    height: 95px;
+    width: 6em;
+    height: 5.938em;
     padding-left: 3.5em;
 
 }
