@@ -14,6 +14,31 @@
 
 <body>
 <div class = "container">
+    <h1>Merchant-Taylor International, Inc.</h1>
+    <h3>BASF Bioresearch Corp.</h3>
+    <h3>Berlex Pharmaceuticals, Inc.</h3>
+    <h3>Biotest Pharma GmbH</h3>
+    <h3>Boehringer Ingelheim, Inc.</h3>
+    <h3>Centocor, Inc.</h3>
+    <h3>Cornell University Medical College</h3>
+    <h3>European Business Development Group/h2>
+    <h3>G.D. Searle and Company</h3>
+    <h3>ImmunoGen, Inc.</h3>
+    <h3>John Wayne Cancer Institute</h3>
+    <h3>Lederle Laboratories</h3>
+    <h3>Ligand Pharmaceuticals, Inc.</h3>
+    <h3>Mallinckrodt, Inc.</h3>
+    <h3>Memorial Sloan Kettering Cancer Institute</h3>
+    <h3>New York Blood Center</h3>
+    <h3>North Shore University Hospital</h3>
+    <h3>Primedica, Inc.</h3>
+    <h3>Sepracor, Inc.</h3>
+    <h3>Systemix, a subdivision of Novartis</h3>
+    <h3>University of California, San Diego</h3>
+    <h3>Vector Securities</h3>
+    <h3>Watson Laboratories, Inc.</h3>
+
+
 
 </div>
 

@@ -2,7 +2,7 @@
 .container {
     display: inline-block;
     text-align: center;
-    margin: 15em;
+    margin: 5em 0 15em 15em;
 
 
 
@@ -10,7 +10,7 @@
 
 .container1 {
     float: left;
-    height: 50em;
+    height: 100em;
     background-color: black;
     width: 200px;
     display: inline-block;
@@ -58,8 +58,13 @@ ul {
 
 }
 
+li {
+    margin-bottom: 2em;
+}
+
 li a {
     color: white;
+
 }
 
 /* Change the link color on hover */
