@@ -7,44 +7,38 @@
 
 }
 
-h1{
-    color: blue;
-
-    }
-
-
 .container1 {
     float: left;
     height: 50em;
     background-color: black;
+    width: 200px;
+    display: inline-block;
+    padding: 0;
 
 
 }
 
-img {
+
+.img {
     width: 96px;
     height: 95px;
-    vertical-align: baseline;
-    padding-top: 5px;
-    padding-left: 10px;
-    border: solid ;
+    padding-left: 3.5em;
 
+}
+
+.img1 {
+    width: 96px;
+    height: 95px;
+    padding: 0;
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
     padding: 0;
-    width: 200px;
-    height: 100%;
     text-align: center;
 
 }
 
 li a {
-    display: inline-block;
-    padding: 8px 16px;
-    text-decoration: none;
     color: white;
 }
 
@@ -53,3 +47,9 @@ li a:hover {
     background-color: #555;
     color: blue;
 }
+h1 {
+    color: blue;
+    text-align: center;
+
+}
+

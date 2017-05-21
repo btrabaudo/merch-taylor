@@ -8,24 +8,21 @@
         <link rel="stylesheet" href="css/style.css">
         <title>Merchant-Taylor Home Page</title>
 
-
-
     </head>
 
     <body>
         <div class = "container">
             <h1>Merchant-Taylor International, Inc.</h1>
 
-            <img src="images/ltlogo.jpg">
+            <img class="img1" src="images/ltlogo.jpg">
 
             <h2>Biomedical Regulatory & New Product</h2>
             <h2>Development Consulting</h2>
         </div>
-
-    <!-- nav bar list-->
     <div class = "container1">
+
+        <img class="img" src="images/globe.gif">
         <ul>
-            <img src="images/globe.gif">
             <li> <a href="index.php">Welcome</a></li>
             <li> <a href="internal-pages/about.php">About Page</a> </li>
             <li> <a href="internal-pages/consulting.php">Consulting Services</a></li>

@@ -6,7 +6,7 @@
 
 
     <link rel="stylesheet" href="../css/style.css">
-    <title>Merchant-Taylor About</title>
+    <title>Merchant-Taylor Associates</title>
 
 
 
@@ -15,12 +15,13 @@
 <body>
 <div class = "container">
 
+
 </div>
 
 <!-- nav bar list-->
 <div class = "container1">
     <ul>
-        <img src="../images/globe.gif">
+        <img class="img1" src="../images/globe.gif">
         <li> <a href="../index.php">Welcome</a></li>
         <li> <a href="about.php">About Page</a> </li>
         <li> <a href="consulting.php">Consulting Services</a></li>
