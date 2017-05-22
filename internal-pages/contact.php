@@ -13,7 +13,22 @@
 </head>
 
 <body>
-<div class = "container">
+<div class = "container3">
+    <h1>Merchant-Taylor International, Inc.</h1>
+    <h3>West Coast Office</h3>
+    <p>162 S. Rancho Santa Fe Road, Suite F12</p>
+            <p>Encinitas, California 92024</p>
+            <p>tel (760) 634-3100</p>
+            <p>fax (760) 634-3168</p>
+    <p><a href="mailto:bmerchmd@aol.com">bmerchmd@aol.com</a></p>
+    <p><a href="mailto:OfCenbarb@aol.com">OfCenbarb@aol.com</a></p>
+    <h3>East Coast Office</h3>
+    <p>101 Camelot Court</p>
+    <p>Princeton, New Jersey  08540</p>
+    <p>tel (800) 257-6530</p>
+    <p><a href="mailto:jtaylor5@san.rr.co">jtaylor5@san.rr.co</a></p>
+    <p><a href="mailto:jtaylor21@comcast.net">jtaylor21@comcast.net</a></p>
+
 
 </div>
 

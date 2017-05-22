@@ -27,6 +27,13 @@
 
 }
 
+.container3 {
+    height: 0;
+    text-align: center;
+    margin-left: 13em;
+
+}
+
 .list {
     list-style-type: circle;
     display: inline-block;
