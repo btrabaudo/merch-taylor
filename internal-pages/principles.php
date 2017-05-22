@@ -6,7 +6,7 @@
 
 
     <link rel="stylesheet" href="../css/style.css">
-    <title>Merchant-Taylor About</title>
+    <title>Merchant-Taylor Principles</title>
 
 
 
