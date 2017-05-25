@@ -45,7 +45,7 @@
             <li>cGMP Training</li>
             <li>Validation Services</li>
             <li>QC Advisory Support</li>
-                <ul>
+                <ul class="sublist">
                     <li>Product Testing</li>
                     <li>Stability Programs</li>
                     <li>Assay Development/Validation</li>

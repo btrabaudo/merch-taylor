@@ -1,4 +1,22 @@
 
+.list {
+    list-style-type: circle;
+    display: inline-block;
+    margin: 1.5em;
+    padding: 0;
+
+}
+
+.sublist {
+    list-style-type: circle;
+    display: inline-block;
+    position: relative;
+    left: 1.5em;
+    padding: 0;
+
+}
+
+
 .container {
     display: inline-block;
     text-align: center;
@@ -15,34 +33,28 @@
     width: 200px;
     display: inline-block;
     padding: 0;
+    text-align: center;
 
 
 }
 
-.container2{
+.container2 {
     height: 0;
     text-align: left;
     margin-left: 13em;
     float: left;
+    text-indent: 3rem;
 
 }
+
 
 .container3 {
     height: 0;
     text-align: center;
     margin-left: 13em;
-
 }
 
-.list {
-    list-style-type: circle;
-    display: inline-block;
-    margin: 0;
-    padding: 0;
 
-
-
-}
 
 
 .img {
@@ -62,6 +74,7 @@
 ul {
 
     text-align: inherit;
+    padding: 0;
 
 }
 

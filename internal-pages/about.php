@@ -29,11 +29,11 @@
 
         <p>Our diverse product experience includes:</p>
 
-        <div class="list">
+        <div class= "list">
             <ul>
                 <li>Drugs; All FDA Drug Rx Divisions</li>
                 <li>Biologics including</li>
-                    <ul>
+                    <ul class="sublist">
                         <li>Monoclonals</li>
                         <li>Recombinant Proteins</li>
                         <li>Gene Therapies</li>
